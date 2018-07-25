@@ -1,3 +1,6 @@
+# NOTE
+Only few of the test cases are tested
+
 # NAME
 
 marketcheck_api_sdk_perl::Role - a Moose role for the Marketcheck Cars API
